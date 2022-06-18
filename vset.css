@@ -33,6 +33,11 @@ button {
 	cursor: pointer;
 }
 
+a {
+	text-decoration: none;
+	transition: .3s;
+}
+
 input,
 textarea,
 button {
